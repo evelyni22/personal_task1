@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+head {
+    display: none;
+}
+
+body {
+    background: url(../assets/bg.png) center / cover no-repeat;
+    min-height: 100vh;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    display: block;
+}
+:root {
+    --rem: 16;
+}
+
+:root {
+    view-transition-name: root;
+}
+
+html{
+    -webkit-locale: "en";
+}
